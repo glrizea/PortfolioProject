@@ -1,5 +1,5 @@
---Covid 19 Data Exploration 
---Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+-- Covid 19 data exploration 
+-- skills used: joins, CTE's, temp tables, windows functions, aggregate functions, creating views, converting data types
 
 
 -- quering the covid deaths data
